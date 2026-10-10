@@ -675,7 +675,7 @@ export default function MandaditoApp() {
             <div className="wordmark" style={{ color: "#fff", fontSize: 38, marginTop: 4 }}>
               Mandad<span style={{ color: "var(--nar)" }}>i</span>to
             </div>
-            <p style={{ color: "#7C7C88", fontSize: 11.5, letterSpacing: ".18em", textTransform: "uppercase", fontWeight: 700 }}> una mano · Ofrecé la tuya</p>
+            <p style={{ color: "#7C7C88", fontSize: 11.5, letterSpacing: ".18em", textTransform: "uppercase", fontWeight: 700 }}> Pedí una mano · Ofrecé la tuya</p>
           </div>
           <div className="bar"><i /></div>
         </div></div>
